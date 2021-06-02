@@ -6,6 +6,7 @@ public class LinkedList {
 	
 	public LinkedList()
 	{
+               System.out.println();
 		head=null;
 		System.out.println();
 	}
