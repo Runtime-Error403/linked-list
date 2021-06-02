@@ -28,6 +28,7 @@ public class LinkedList {
 		
 			nn.next=head; //nn.setNext(head);
 			head=nn;
+                 System.out.println();
 		
 	}
 	
